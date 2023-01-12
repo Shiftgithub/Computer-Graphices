@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1649168958 source:d:\computer_graphices\emoji\main.cpp
+	<iostream>
+	<graphics.h>
+
+1649169193 source:d:\computer_graphices\emoji\flag.cpp
+	<graphics.h>
+	<conio.h>
+
