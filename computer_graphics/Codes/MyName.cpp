@@ -1,12 +1,13 @@
 #include<iostream>
 #include<graphics.h>
 
-int main(){
+int main()
+{
     int gd = DETECT, gm;
 
     initgraph(&gd, &gm, "");
 
-    //Writing R
+    //WritingO R
     line(20, 20, 20, 100);
     arc(20, 40, 270, 90, 20);
     line(20, 60, 40, 100);
